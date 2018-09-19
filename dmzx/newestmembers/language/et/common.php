@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Newest members
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -37,6 +38,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'NEWESTMEMBERS_TEXT'	=> 'Our <strong>%d</strong> newest members',
+	'NEWESTMEMBERS_TEXT'	=> 'Meie <strong>%d</strong> uusimad liikmed',
 	'NEWEST_MEMBERS'		=> '%s',
 ));
