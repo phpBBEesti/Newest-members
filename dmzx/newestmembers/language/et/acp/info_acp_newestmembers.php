@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Newest members
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -34,6 +35,6 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 
 	// ACP entries
-	'NEWEST_MEMBERS_SETTING'			=> 'Set value for newest members',
-	'NEWEST_MEMBERS_SETTING_EXPLAIN'	=> 'Value adjustable from 2 till 255 members.',
+	'NEWEST_MEMBERS_SETTING'			=> 'Määra väärtus uutele liikmetele',
+	'NEWEST_MEMBERS_SETTING_EXPLAIN'	=> 'Väärtus on 2 kuni 255 liiget.',
 ));
